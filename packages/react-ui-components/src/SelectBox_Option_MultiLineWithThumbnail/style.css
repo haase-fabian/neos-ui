@@ -4,6 +4,10 @@
     background: var(--colors-ContrastDarkest);
 }
 
+.multiLineWithThumbnail__item--singleLabel {
+    line-height: inherit;
+}
+
 .multiLineWithThumbnail__secondaryLabel {
     color: var(--colors-ContrastBright);
     display: block;
